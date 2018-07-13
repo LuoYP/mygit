@@ -2,3 +2,4 @@ hello word;
 hello git;
 i love git;
 git is very useful;
+git is good;
